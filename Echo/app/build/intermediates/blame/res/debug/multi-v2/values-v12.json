@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "S:\\Echo\\Echo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jayas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\cd3fda3c4c5b5f7533379b95b8b193cd\\res\\values-v12\\values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        }
+    ]
+}

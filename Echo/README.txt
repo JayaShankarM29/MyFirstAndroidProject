@@ -1,0 +1,1 @@
+This is an android music player application named "Echo-Master" created during Internshala's 6-week internship
